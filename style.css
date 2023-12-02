@@ -98,7 +98,7 @@ section {
 }
 
 .about > .text > .aboutMe {
-  margin-top: 200px;
+  margin-top: 240px;
 }
 
 .aboutMe {
@@ -151,7 +151,7 @@ section {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 131px;
+  gap: 155px;
   padding-bottom: 50px
   
 }
